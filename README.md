@@ -5,8 +5,8 @@ The artwork with a multitude of umbrellas inspires me to blend small, distinct p
 
 <div style="display: flex; justify-content: space-between;">
     <img src="/assets/umbrella1.jpeg" alt="The umbrellas are beautiful!" title="umbrella" width="200">
-    <img src="/assets/umbrella2.jpg" alt="The umbrellas are beautiful!" title="umbrella" width="200">
-    <img src="/assets/umbrella3.jpg" alt="The umbrellas are beautiful!" title="umbrella" width="200">
+    <img src="/assets/umbrella2.jpg" alt="The umbrellas are beautiful!" title="umbrella" width="240">
+    <img src="/assets/umbrella3.jpg" alt="The umbrellas are beautiful!" title="umbrella" width="350">
 </div>
 
 2. Coding Technique [Code Link](https://openprocessing.org/sketch/1994580):
