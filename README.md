@@ -17,4 +17,4 @@ Function draw and function setup generate multiple circles with varying sizes an
 
 [Code Link](https://openprocessing.org/sketch/1994580)
 
- <img src="/assets/rain.png" alt="Rains!" title="umbrella" width="500">
+ <img src="/assets/rain.png" alt="Rains!" title="rain" width="500">
