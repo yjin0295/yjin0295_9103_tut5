@@ -11,7 +11,9 @@ The artwork with a multitude of umbrellas inspires me to blend small, distinct p
 </div>
 
 
-2. **Coding Technique [Code Link](https://openprocessing.org/sketch/1994580):**
+2. **Coding Technique:**
 
 Function draw and function setup generate multiple circles with varying sizes and colors dynamically, which can be used in drawing umbrellas. Function mousePressed allows users to interact with the canvas by clicking and creating a new random umbrella. The frameCount can be used in adjusting intensity of the "rain" by controlling the number of umbrellas on the screen.
 
+[Code Link](https://openprocessing.org/sketch/1994580)
+ <img src="/assets/rain.png" alt="The umbrellas are beautiful!" title="umbrella" width="200">
