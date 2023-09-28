@@ -7,7 +7,7 @@ The artwork with a multitude of umbrellas inspires me to blend small, distinct p
 <div style="display: flex; justify-content: space-between;">
     <img src="/assets/umbrella1.jpeg" alt="The umbrellas are beautiful!" title="umbrella" width="200">
     <img src="/assets/umbrella2.jpg" alt="The umbrellas are beautiful!" title="umbrella" width="240">
-    <img src="/assets/umbrella3.jpg" alt="The umbrellas are beautiful!" title="umbrella" width="350">
+    <img src="/assets/umbrella3.jpg" alt="The umbrellas are beautiful!" title="umbrella" width="300">
 </div>
 
 
@@ -16,4 +16,5 @@ The artwork with a multitude of umbrellas inspires me to blend small, distinct p
 Function draw and function setup generate multiple circles with varying sizes and colors dynamically, which can be used in drawing umbrellas. Function mousePressed allows users to interact with the canvas by clicking and creating a new random umbrella. The frameCount can be used in adjusting intensity of the "rain" by controlling the number of umbrellas on the screen.
 
 [Code Link](https://openprocessing.org/sketch/1994580)
- <img src="/assets/rain.png" alt="The umbrellas are beautiful!" title="umbrella" width="200">
+
+ <img src="/assets/rain.png" alt="Rains!" title="umbrella" width="200">
